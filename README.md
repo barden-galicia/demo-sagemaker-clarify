@@ -22,6 +22,7 @@ Sin más, aquí la parte el ejemplo de como podemos utilizar Amazon SageMaker Cl
 ### Paso 2: Ejecutar Notebook
 
 2.1 Entra SageMaker y abre tu instancia de Jupyter
+
 2.2 Carga el archivo y ejecuta el paso a paso
 
 *Nota:* asegurate que el rol de tu instancia tenga acceso al bucket de s3 creado.
